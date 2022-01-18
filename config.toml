@@ -1,4 +1,4 @@
-baseurl                 = "https://synxb.github.io/blog/"
+baseurl                 = "http://www.hackinginstyle.com/"
 DefaultContentLanguage  = "en"
 title                   = "Hacking in Style"
 theme                   = "hugo-future-imperfect-slim"
