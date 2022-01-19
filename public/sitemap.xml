@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hackinginstyle.com/archives/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackinginstyle.com/contact/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackinginstyle.com/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackinginstyle.com/about/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackinginstyle.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hackinginstyle.com/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hackinginstyle.com/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hackinginstyle.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hackinginstyle.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hackinginstyle.com/tags/</loc>
+  </url>
+  
+</urlset>
