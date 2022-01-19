@@ -1,12 +1,12 @@
-baseURL = "https://hackinginstyle.com"
+baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Hacking In Style"
+title = "Website of Jane Doe"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
 # theme as git submodule
-theme = "anatole-master"
+theme = "anatole"
 
 summarylength = 10
 enableEmoji = true
@@ -19,7 +19,7 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 # Syntax highlighting
-pygmentsUseClasses = true
+pygmentsUseClasses = true   
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
@@ -32,4 +32,3 @@ pygmentsCodefencesGuessSyntax = true
     category = "categories"
     series = "series"
     tag = "tags"
-
