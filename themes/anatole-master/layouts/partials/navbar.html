@@ -18,7 +18,7 @@
         {{ $url := .RelPermalink }}
         {{ range .Site.Menus.main }}
           {{ $active := eq $url .URL }}
-          <li>
+          <li style="font-size:18px">
             <a
               {{ if $active }}
                 class="current"
