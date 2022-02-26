@@ -25,7 +25,7 @@
   --content-width: calc(var(--content-ratio) * 100%);
   --sidebar-width: calc(var(--sidebar-ratio) * 100%);
   /* prettier-ignore */
-  --content-ratio: {{ .Site.Params.contentratio | default 0.6 }}
+  --content-ratio: {{ .Site.Params.contentratio | default 0.75 }}
 }
 
 html[data-theme='dark'] {
